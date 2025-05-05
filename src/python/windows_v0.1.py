@@ -103,7 +103,7 @@ class Window:
                                  ipadx=5,
                                  ipady=5
                                  )
-        # s.w_btn1 is the one to add to to tailor this to other purposes.
+        # s.w_btn1 is the one to add to in order to tailor this to other purposes.
         s.w_btn1 = ttk.Button(s.w,
                               text="Secondary Button", # add command = whatever to this tuple
                               ).grid(column=1,
