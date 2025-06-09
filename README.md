@@ -9,6 +9,6 @@ Non-existent documentation. <br>
 __Parental Advisory -- Explicit Content.__ <br>
 __This ain't your average github repo.__ <br>
 <br>
-The studidest motherfucker you've ever met,
+The stupidest motherfucker you've ever met,
 but damn do I know programming.
 -- minikowalkes
