@@ -12,7 +12,7 @@ I'm trying my damndest not to. But with arrhythmia and hypertension, it's kind o
 Hopefully, this gets sorted next week. I am no longer the "white monster drinkin' White Monsters." I drink coffee now, for my health.
 
 What this means for me is that my "versioning control scheme" is not platform independent. Works on Windows though, I guess.
-Although, I'd rather it work better on Linux... because I'm the new Linux guy lmao.
+Although, I'd rather it work better on Linux... because I'm the new Linux guy. I only like Linux because I like penguins.
 Also, the damn pathing issue for python modules on Windows I still can't figure out. I even tried using AI to solve my
 module pathing issues, and I HATE AI. Hate is such a strong word, but ain't ain't a word, so we ain't gonna use it.
 
