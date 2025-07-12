@@ -1,0 +1,69 @@
+7/11/25
+This is as free-form of a "poem" as a poem can get.
+
+I just recently realized that Linux freaks the hell out when you have extra dots at the end of your files.
+And by "just recently," I mean just the other day.
+And by "just the other day," I mean many months ago. <=== check out that alliteration, eh? Not as free-form as I had initially thought!
+Also, that's an example of parallelism^^^. Get some. Get bent. There's another example!!! He's on a roll!
+Also, this poem inspired me to write an inefficient python script lol. I will post it directly after this.
+
+The crowd goes wild!!! AHHHHHHH...! AHHHHHHHHH...! "Minikowalkes we love you, please don't have a heart attack!"
+I'm trying my damndest not to. But with arrhythmia and hypertension, it's kind of only a matter of time without the right medication.
+Hopefully, this gets sorted next week. I am no longer the "white monster drinkin' White Monsters." I drink coffee now, for my health.
+
+What this means for me is that my "versioning control scheme" is not platform independent. Works on Windows though, I guess.
+Although, I'd rather it work better on Linux... because I'm the new Linux guy lmao.
+Also, the damn pathing issue for python modules on Windows I still can't figure out. I even tried using AI to solve my
+module pathing issues, and I HATE AI. Hate is such a strong word, but ain't ain't a word, so we ain't gonna use it.
+
+Newsflash - I still have that same pathing issue. Uh-oh, the "em-dash" suggests the use of AI here, but
+why the hell would I use AI to write out my own damn thoughts? Why am I choosing to put them on a public platform?
+Y'know, normally I would write this in a journal. Keep your judgements to yourself; journaling definitely helps.
+
+The inner machinations of my mind are (not) an enigma. <=== had to throw a Spongebob quote in here somewhere lmao.
+
+I have been considering buying another laptop out of sheer tech-hoarding insanity. I could get like a crappy Dell Celeron
+laptop for like... $500 or less but I'm finding it extremely hard to part with a dollar right now.
+I have an old dinosaur machine that I've been meaning to resurrect like Colossal Biosciences Lab lmao.
+I have been told in the past by anti-social media,
+"you either huff dangerous chemicals for a living,"
+"or you stare at excel spreadsheets for a living."     <=== had to do some weird, not pedantically correct quotation marks because
+                                                           I like this shade of blue lol.
+The former you pay for with your body,
+The latter you pay for with your mind.
+
+I actually straight up have no clue if the light blue will show up on github.
+This is just a .txt file, so there shouldn't be any syntax highlighting whatsoever.
+So this is just es okay why is es highlighted...
+
+So this is just essentially a to-do list. Because I love making lists and never referencing them again lmao.
+I'm excited to see whether or not these colors show upon actually finishing this "poem," which is just 
+an over-glorified TO-DO list.
+
+First thing's first, I have to pretty much copy-paste all my code into PEP-8 (and Linux) compliant .py files,
+and edit my versioning schema. I'm not looking forward to doing this.
+
+Secondly, I need some ice cream. <=== this will likely occur first. It's a million degrees where I reside,
+and I never follow proper order-of-operations. Some would argue I cannot follow simple instructions, but
+I have a tendency to disagree. I'm just in disarray without the knowledge of sorting algorithms hehehe.
+
+Third, Gentoo machine. That poor, poor T1480 or whatever model Thinkpad. $40 on eBay, came out to like $52 with shipping.
+I was surprised the damn thing worked! I was totally prepared to be sold a lemon!
+
+4) Just noticed the "Preview" option. Wonder if that will work for... whatever idk.
+
+"Fifthliest" in the superlative, damn "regex machine" ain't workin'. That's the Magnum Opus project, I suppose.
+But I don't want to do it in Python... but that's the language I unfortunately have the most experience with.
+
+Hexagonally, gotta find the proper textbook for one of my courses. I return statemented it without writing
+enough notes prior to returning it. But I knew I was goin' away for a while.
+
+Seventh, PHP and Perl. Literally just dumbass personal goals with no timeframe. Like, I'm not a webdev guy,
+but something about PHP entices me. I don't yet understand what it is, yet I want to. Also, I like elephants and camels, respectively.
+
+Eighter, I have like... SEVERAL (several meaning at least 3) different pygame projects that I **should** hypothetically be working on.
+A sincere apology to those who I've promised results, I honestly really dislike reading python documentation, even after several cups of coffee.
+
+Niner-niner, Descriptive Inorganic Chemistry, 6th ed. I do a fair amount of self-guided study and learning.
+
+Last, but certainly not least, I must get back to where I once belonged. I may write more "poetry" in the meantime.
