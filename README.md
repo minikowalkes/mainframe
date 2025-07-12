@@ -1,8 +1,8 @@
 
 # The Minikowalkes Mainframe
 
-Public personal programming projects and properly purported procurements. <br>
-No intended use. Just a collection of programs. <br>
+Public personal programming projects, properly purported procurements, and poetry. <br>
+No intended use. Just a collection of programs and poems. <br>
 Not recommended for personal use. <br>
 Non-existent documentation. <br>
 <br>
