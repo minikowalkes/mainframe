@@ -1,0 +1,36 @@
+7/12/25 -> twelve hours later.
+Why haven't I been playing bass? It actually really helps with
+programming and computational thinking due to its... strange 
+improvisational nature. Mistakes are welcomed, and encouraged.
+Tactile learning, I suppose. But I totally thought I learned
+better via audio. Writing is best! All I wanna do is make notes!
+
+My BP peaked at 160/90 today. My BPM at the time was 101.
+After drinking approximately 400 mL of water, eating supper,
+and spending some time relaxing, it dropped down to 127/80.
+That cycle cannot keep continuing. It will kill me.
+
+I learned a RATM song on bass without a reference.
+But tbh, I gotta get ready for bed. I almost fell asleep at
+like 7:30 until I was RUDELY INTERRUPTED.
+I learned some ridiculous python nonsense without
+the aid of "tutorial hell videos," I finally RTFM!
+
+Once again, this is kind of an over-glorified to-do list.
+More like a prioritization, but that's neither here nor there.
+
+1) Paperwork. Gotta do all this nonsense paperwork
+   for this, that, and the other thing. It takes forever.
+   Gotta be patient in order to be a patient, which is stupid.
+2) Make some sys scripts. I should be working on Java, but
+   I need to get back into the robot 0s and 1s mindset
+   shifting bits in registers before I do that.
+3) After sys, I suppose I will work on os. Something I read
+   suggested that sys doesn't work properly on Windows...?
+   I have yet to test it.
+4) After os, I suppose I will work on not being so repetitive
+   and do pathlib next. After which point...
+5) I can focus my efforts on pygame. I'm always busy.
+6) Consequently, post steps 1-5, I can finally touch grass.
+   And I walk from my machine... And I walk from my machine.
+   Good night. --minikowalkes
