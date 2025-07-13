@@ -10,5 +10,5 @@ __Parental Advisory -- Explicit Content.__ <br>
 __This ain't your average github repo.__ <br>
 <br>
 The least professional human you've ever met,
-but damn do I know programming. <br>
+but I do know programming. <br>
 -- minikowalkes
