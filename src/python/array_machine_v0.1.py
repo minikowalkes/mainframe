@@ -8,6 +8,8 @@
    Then I started making more problems I could solve...
    Now I have too many problems.
 
+   Edited 7/12/25 instead of going to bed. Made one line more pythonic.
+
 TO DO:
    1) The interactive help section sucks thus far. It
    gets into itself and works (except for the else blocks...?)
@@ -82,7 +84,7 @@ class ArrayTest:
             s.a = ['']
         elif s.c == '2':
             s.a = [0]
-        elif s.c == 'H' or s.c == 'h':
+        elif s.c.upper() == 'H':
             s.helper()    # not quite done
             s.a = [0]
         else:
