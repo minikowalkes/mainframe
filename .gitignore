@@ -1,0 +1,3 @@
+# Do not include poetry updates in contributions
+poetry/
+*.txt
