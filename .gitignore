@@ -1,6 +1,12 @@
+# Recursive lol
+.gitignore
+
 # Do not include poetry updates in contributions
 poetry/
 *.txt
 
 # Do not include learning updates in contributions
 src/learning/
+
+# Do not include hello_worlds updates in contributions
+hello_worlds/
