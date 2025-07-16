@@ -8,8 +8,8 @@ import re  #     <=== obviously necessary
    plus sign => ...? 1 or more "greedy repetitions?"    <=== come back to this...
    question mark => ...? 0 or 1 "greedy repetitions?"   <=== come back to this...
 
-   NOTES: Look up what is meant by "greedy repetition,"
-   most if not all of these also require the prior
+   NOTES: Look up what is meant by "greedy repetition," <=== 7/16/25 skipped one line in docs that explained this lol.
+   most if not all of these also require the prior           Do not have the time today to learn this one. quick update.
    existence of another regular expression.
 
    From my current understanding, I would assume that
