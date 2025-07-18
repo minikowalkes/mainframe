@@ -1,0 +1,42 @@
+7/18/25
+<---   Project Idea #1   --->
+<---   + Anti-AI Rant    --->
+So it turns out ChatGPT's API lacks a feature
+to bulk-delete previous chats. There's the idea.
+
+You literally have to delete each chat one by one,
+which entails loading the entire chat, which wastes
+so much of my time. I'm so damn sick of wasting my time.
+Getting tired, of standing here...
+
+Once again, yet another valid reason for me
+to absolutely hate AI. I finally personalized
+my chats to be productive (Any time spent on that platform 
+I view as time wasted), but it doesn't help when 
+I am constantly bombarded with my clandestine past chats.
+
+It's a regular expression parsing machine that
+tells you that you're correct no matter what to 
+drive engagement. It's not a tool to be more 
+productive, it's a tool to make you dumber and 
+sell you things. Humans are great at personification.
+
+Y'know what they used to have? It was this thing
+called books that weren't ".pdf" documents. You could 
+touch them, smell the bleached paper, the ink,
+and write in them with whatever utensil if you so
+chose. Let's burn 'em all and set up four walls!
+
+It doesn't help that I feel alone in this. I'm like,
+one of the only AI dissenters on planet earth right now.
+
+<---   Project Idea #2   --->
+An ASCII-based cypher for these poems in java.
+Shouldn't be that difficult, right? RIGHT!?
+
+<---   Poem   --->
+Drowning in an inefficient sea,
+Trapped in a digital purgatory.
+Severing ties with my past,
+Answering questions never asked.
+--minikowalkes
