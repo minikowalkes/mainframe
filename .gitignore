@@ -10,3 +10,5 @@ src/learning/
 
 # Do not include hello_worlds updates in contributions
 hello_worlds/
+
+# that isn't what gitignore does.
